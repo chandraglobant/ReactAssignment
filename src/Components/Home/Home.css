@@ -1,0 +1,19 @@
+thead{
+    background-color: lightgrey;
+}
+.taskList{
+    margin:10px;
+    width:99%;
+   
+}
+
+
+tbody {
+    height: 600px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+
+th div:hover{
+    cursor: pointer; cursor: hand;
+}
