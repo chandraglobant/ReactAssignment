@@ -1,0 +1,11 @@
+How to run the Project:
+ 1. npm install
+ 2. npm start
+
+Testing done for reducers only
+
+Few features:
+1. Click on status of a record to change the status
+2. Filter records using Status dropdown in the table header(Status)
+3. To sort the records using description,category and Due Date click on the respective table header
+4. After Edit and Create Click on Home to come back to the list of tasks
